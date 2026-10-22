@@ -23,3 +23,11 @@ Create infrastructure using code
 9. Prometheus / Grafana
 
 Monitor metrics and visualize system health
+
+
+devopa life cycle 
+
+The DevOps life cycle is the continuous process of planning, developing, building, testing, releasing, deploying, operating, and monitoring a software application.
+
+
+
